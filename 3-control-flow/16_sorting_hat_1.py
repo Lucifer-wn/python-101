@@ -79,7 +79,7 @@ print("Slytherin: ", slytherin)
 
 most_points = max(gryffindor, ravenclaw, hufflepuff, slytherin) # We'll learn about max() in the Functions chapter
 
-if gryffindor == most_points:
+if gryffindor == most_points: #If there are a ite?
   print('🦁 Gryffindor!')
 elif ravenclaw == most_points:
   print('🦅 Ravenclaw!')
