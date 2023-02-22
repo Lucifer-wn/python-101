@@ -78,7 +78,7 @@ print("Hufflepuff: ", hufflepuff)
 print("Slytherin: ", slytherin)
 
 if gryffindor >= ravenclaw and gryffindor >= hufflepuff and gryffindor >= slytherin:
-  print('🦁 Gryffindor!')
+  print('🦁 Gryffindor!') #Why win if its the same as other?
 elif ravenclaw >= hufflepuff and ravenclaw >= slytherin:
   print('🦅 Ravenclaw!')
 elif hufflepuff >= slytherin:
